@@ -2,12 +2,11 @@
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.2+-green.svg)](https://langchain.com/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-0.1+-purple.svg)](https://langchain-ai.github.io/langgraph/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-teal.svg)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An intelligent tutoring system powered by LLM agents that delivers personalized, adaptive learning experiences. The system employs Socratic questioning, multi-level concept explanation, adaptive quiz generation, personalized learning paths, and comprehensive progress tracking — built with **LangChain** and **LangGraph**.
+An intelligent tutoring system powered by LLM agents that delivers personalized, adaptive learning experiences. The system employs Socratic questioning, multi-level concept explanation, adaptive quiz generation, personalized learning paths, and comprehensive progress tracking — built with **LangChain**.
 
 ---
 
